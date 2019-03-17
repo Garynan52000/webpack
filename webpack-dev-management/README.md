@@ -15,3 +15,11 @@ npm i --save-dev express webpack-dev-middleware  # express 搭建开发服务器
 ```
 npm run watch
 ```
+- webpack-dev-server
+```
+npm start
+```
+- webpack-dev-middleware
+```
+npm run serve
+```
