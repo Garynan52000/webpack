@@ -19,5 +19,8 @@
   },
   "dependencies": {
     "lodash": "^4.17.11"
-  }
+  },
+  "sideEffects": [
+    "*.css"
+  ]
 }

@@ -8,8 +8,13 @@ module.exports = {
     filename: 'main.js',
     path: path.resolve(__dirname, 'dist')
   },
+  
   /* 开发模式 */
-  mode: 'development',
+  // mode: 'development',
+
+  /* 生产模式 */
+  mode: 'production',
+
   /* 备注为使用的 export */
   optimization: {
     usedExports: true
