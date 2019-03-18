@@ -1,7 +1,7 @@
 {
-  "name": "webpack-basic-usage",
+  "name": "webpack-tree-shaking",
   "version": "1.0.0",
-  "description": "webpack-basic-usage",
+  "description": "webpack-tree-shaking",
   "private": true,
   "scripts": {
     "start": "npm run build && http-server \"./dist\" -o",
